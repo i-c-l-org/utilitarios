@@ -1,6 +1,14 @@
+<img align="center" src="./img/azul.png"/>
+
+#
+
 # 🧰 Dev Toolkit - Configuração opencode
 
 Toolkit de desenvolvimento otimizado para **opencode** com configuração customizada, skills e guias de referência.
+
+![Clones](https://kitsune-galeria.vercel.app/api/github-traffic/clones/badge.svg?owner=i-c-l-org&repo=marciano&type=clones&labelGradientStart=4c1d95&labelGradientEnd=7c3aed&valueGradientStart=0f172a&valueGradientEnd=1e293b)
+![Unique Visits](https://kitsune-galeria.vercel.app/api/github-traffic/clones/badge.svg?owner=i-c-l-org&repo=marciano&type=uniques&labelColor=0f172a&valueColor=1d4ed8)
+
 
 ## Quick Start
 
@@ -123,3 +131,5 @@ npm run security      # Scan de vulnerabilidades
 ## License
 
 MIT-0
+
+<img align="right" src="./img/logo-0.png" with="90" height="90"/>
