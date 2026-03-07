@@ -1,3 +1,7 @@
+<img align="center" src="./img/capa.png"/>
+
+#
+
 # 🧰 Dev Toolkit - Configuração opencode
 
 Toolkit de desenvolvimento otimizado para **opencode** com configuração customizada, skills e guias de referência.
@@ -123,3 +127,5 @@ npm run security      # Scan de vulnerabilidades
 ## License
 
 MIT-0
+
+<img align="right" src="./img/logo-0.png" with="90" height="90"/>
